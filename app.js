@@ -198,7 +198,7 @@ window.sendChatMessage = async (e) => {
 // ==========================================
 // AUTH & UI LOGIC
 // ==========================================
-const VALID_PASSWORD_HASH = "8a252b4421b585bfcd26c710c5ab52a1291845bb0cb3bc19468cd32eb24c7f1a"; // Pass: inertia2026
+const VALID_PASSWORD_HASH = "f42ae91cdf459260f21ce2be51c74c0b2aafa59a9d649289d30107aaa98bca6a"; 
 window.isAdminLoggedIn = false;
 
 window.hashPassword = async (password) => {
